@@ -54,7 +54,4 @@ Exploratory Data Analysis (EDA) confirms that simple visualizations can effectiv
 
 ---
 
-## 📎 Submission Notes
-- Notebook file: `Task1_Iris_EDA.ipynb`  
-- Repository: [Your GitHub Repo Link Here]  
-- Submitted via Google Classroom
+
